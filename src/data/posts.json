@@ -1,32 +1,45 @@
 [
   {
     "id": 1,
-    "user": "ana.dev",
-    "location": "São Paulo, Brasil",
-    "avatar": "/images/avatars/ana.jpg",
-    "image": "/images/posts/post-1.jpg",
-    "alt": "Mesa de trabalho com notebook e café",
-    "likes": 128,
-    "caption": "Construindo uma interface por vez. ✨"
+    "user": "finn_e_jake.oficial",
+    "location": "Terra de Ooo",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=finn",
+    "image": "/gifs/adventure-time.gif",
+    "alt": "Finn e Jake dançando na Terra de Ooo",
+    "likes": "42.890",
+    "caption": " SEGURA AÍ JAKE! O feed tá muito instável hoje, estamos quase caindo! ⚔️🐶 #HoraDeAventura #Equilibrio",
+    "tilted": true,
+    "balancer": "/gifs/finn-jake.gif"
   },
-  {
+   {
     "id": 2,
-    "user": "viajante",
-    "location": "Rio de Janeiro, Brasil",
-    "avatar": "/images/avatars/viajante.jpg",
-    "image": "/images/posts/post-2.jpg",
-    "alt": "Paisagem de uma praia ao entardecer",
-    "likes": 342,
-    "caption": "Fim de tarde com vista para o mar."
+    "user": "goku.oficial",
+    "location": "Planeta Supremo",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=goku",
+    "image": "/gifs/dbz.gif",
+    "alt": "Goku preparando o Kamehameha",
+    "likes": "9.999",
+    "caption": " Treinando para o Torneio do Poder! Quem vem comigo? 💥⚡ #DragonBallZ #SuperSayajin",
+    "sticker": "/gifs/boblambendo.gif"
   },
   {
     "id": 3,
-    "user": "cafecomcodigo",
-    "location": "Curitiba, Brasil",
-    "avatar": "/images/avatars/cafe.jpg",
-    "image": "/images/posts/post-3.jpg",
-    "alt": "Xícara de café ao lado de um teclado",
-    "likes": 87,
-    "caption": "Qual é a sua trilha sonora para programar?"
+    "user": "bob_esponja.rock",
+    "location": "Fenda do Biquíni",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=spongebob",
+    "image": "/gifs/spongebob-guitar.gif",
+    "alt": "Bob Esponja tocando solo na guitarra",
+    "likes": "4.312",
+    "caption": " O solo que abalou o Siri Cascudo! Patrick na bateria amanhã! 🎸🍍 #FendaDoBiquini #Rock"
+  },
+  {
+    "id": 4,
+    "user": "pikachu.eletrico",
+    "location": "Cidade de Pallet",
+    "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=pikachu",
+    "image": "/gifs/pikachu.gif",
+    "alt": "Pikachu correndo velozmente",
+    "likes": "12.450",
+    "caption": " Pika Pika! Correndo pra não perder o almoço do Ash! ⚡🏃‍♂️ #Pokemon #Pikachu"
   }
 ]
